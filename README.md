@@ -9,6 +9,6 @@ A core engine maintained and mirrored through this account.
 ## Maintainers
 - [Blziko](https://github.com/Blziko)
 - [Zeronetsec](https://github.com/Zeronetsec)
-- [Dumpzyz](https://github.com/Dumzyz)
+- [Dumzyz](https://github.com/Dumzyz)
 
 <br>
