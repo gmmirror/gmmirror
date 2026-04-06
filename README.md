@@ -21,7 +21,7 @@ A core engine maintained and mirrored through this account.
 - [httpx](https://github.com/projectdiscovery/httpx)
 - [hydra](https://github.com/vanhauser-thc/thc-hydra)
 - [katana](https://github.com/projectdiscovery/katana)
-- [metasploit-for-termux](https://github.com/rapid7/metasploit-framework)
+- [metasploit](https://github.com/rapid7/metasploit-framework)
 - [muxly](https://github.com/Zeronetsec/Muxly)
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - [nuclei](https://github.com/projectdiscovery/nuclei)
